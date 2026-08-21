@@ -1,12 +1,23 @@
 {
-  "background_color": "#222222",
-  "dir": "ltr",
-  "display": "standalone",
   "name": "Scientific Calculator",
-  "orientation": "any",
-  "scope": "/",
   "short_name": "Calculator",
-  "start_url": "/",
+  "description": "A modern scientific calculator for Android and web.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#222222",
   "theme_color": "#667eea",
-  "description": "A modern scientific calculator for Android and web."
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
