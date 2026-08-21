@@ -1,11 +1,12 @@
 {
-    "name": "Scientific Calculator",
-    "short_name": "Calculator",
-    "description": "A modern scientific calculator app",
-    "start_url": "./index.html",
-    "display": "standalone",
-    "background_color": "#222222",
-    "theme_color": "#667eea",
-    "orientation": "portrait",
-    "icons": []
+  "background_color": "#222222",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Scientific Calculator",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Calculator",
+  "start_url": "/",
+  "theme_color": "#667eea",
+  "description": "A modern scientific calculator for Android and web."
 }
